@@ -1,0 +1,747 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\ui\\clientapp\\node_modules\\@inquirer\\checkbox\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:clientapp\\node_modules\\@inquirer\\checkbox\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\clientapp\\node_modules\\@inquirer\\checkbox\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:clientapp\\node_modules\\@inquirer\\checkbox\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\clientapp\\node_modules\\karma\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:clientapp\\node_modules\\karma\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D20C4BB-FA75-401F-8789-E35B3083A0A4}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businesslogic\\workshopbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D20C4BB-FA75-401F-8789-E35B3083A0A4}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businesslogic\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D20C4BB-FA75-401F-8789-E35B3083A0A4}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businesslogic\\materialbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D20C4BB-FA75-401F-8789-E35B3083A0A4}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businesslogic\\blbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C23B2D-0317-4A91-AE2C-92B0E434A546}|..\\BusinessObject\\BusinessObject.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businessobject\\workshoprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C23B2D-0317-4A91-AE2C-92B0E434A546}|..\\BusinessObject\\BusinessObject.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businessobject\\workshopmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C23B2D-0317-4A91-AE2C-92B0E434A546}|..\\BusinessObject\\BusinessObject.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businessobject\\tbl_workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C23B2D-0317-4A91-AE2C-92B0E434A546}|..\\BusinessObject\\BusinessObject.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businessobject\\tbl_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C23B2D-0317-4A91-AE2C-92B0E434A546}|..\\BusinessObject\\BusinessObject.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businessobject\\tbl_trainer_workshop_mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C23B2D-0317-4A91-AE2C-92B0E434A546}|..\\BusinessObject\\BusinessObject.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businessobject\\tbl_student_workshop_mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C23B2D-0317-4A91-AE2C-92B0E434A546}|..\\BusinessObject\\BusinessObject.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businessobject\\tbl_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C23B2D-0317-4A91-AE2C-92B0E434A546}|..\\BusinessObject\\BusinessObject.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\businessobject\\tbl_material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F86F25-F2B4-4188-97FE-E1FDD41E6C67}|..\\DataAccess\\DataAccess.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\dataaccess\\workshopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F86F25-F2B4-4188-97FE-E1FDD41E6C67}|..\\DataAccess\\DataAccess.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\dataaccess\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F86F25-F2B4-4188-97FE-E1FDD41E6C67}|..\\DataAccess\\DataAccess.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\dataaccess\\materialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F86F25-F2B4-4188-97FE-E1FDD41E6C67}|..\\DataAccess\\DataAccess.csproj|c:\\users\\user\\documents\\project\\project_webforms\\project\\dataaccess\\dabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\adminmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\adminmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\approval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\approval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\material.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\material.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\trainer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\trainer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\trainer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\trainer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\workshop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\workshop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\admin\\workshop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:admin\\workshop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\material.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\material.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\material.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\material.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\request.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\request.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\workshop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\workshop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\student\\studentmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{71771658-5350-46DE-88FE-DB77B87AA911}|UI.csproj|solutionrelative:student\\studentmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\ClientApp\\node_modules\\@inquirer\\checkbox\\README.md",
+              "RelativeDocumentMoniker": "ClientApp\\node_modules\\@inquirer\\checkbox\\README.md",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\ClientApp\\node_modules\\@inquirer\\checkbox\\README.md",
+              "RelativeToolTip": "ClientApp\\node_modules\\@inquirer\\checkbox\\README.md",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-29T16:30:01.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\ClientApp\\node_modules\\karma\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "ClientApp\\node_modules\\karma\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\ClientApp\\node_modules\\karma\\CHANGELOG.md",
+              "RelativeToolTip": "ClientApp\\node_modules\\karma\\CHANGELOG.md",
+              "ViewState": "AgIAAB8DAAAAAAAAAAAIwCQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-29T15:47:25.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\ClientApp\\node_modules\\@inquirer\\checkbox\\package.json",
+              "RelativeDocumentMoniker": "ClientApp\\node_modules\\@inquirer\\checkbox\\package.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\ClientApp\\node_modules\\@inquirer\\checkbox\\package.json",
+              "RelativeToolTip": "ClientApp\\node_modules\\@inquirer\\checkbox\\package.json",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAADEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T15:46:25.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkshopBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessLogic\\WorkshopBusiness.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\WorkshopBusiness.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessLogic\\WorkshopBusiness.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\WorkshopBusiness.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwEEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:45:02.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessLogic\\UserBusiness.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\UserBusiness.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessLogic\\UserBusiness.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\UserBusiness.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:57.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaterialBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessLogic\\MaterialBusiness.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\MaterialBusiness.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessLogic\\MaterialBusiness.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\MaterialBusiness.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessLogic\\BLBase.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\BLBase.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessLogic\\BLBase.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\BLBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkShopRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\WorkShopRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\WorkShopRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\WorkShopRequest.cs",
+              "RelativeToolTip": "..\\BusinessObject\\WorkShopRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:40.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkShopMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\WorkShopMaterial.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\WorkShopMaterial.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\WorkShopMaterial.cs",
+              "RelativeToolTip": "..\\BusinessObject\\WorkShopMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tbl_Workshop.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Workshop.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\tbl_Workshop.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Workshop.cs",
+              "RelativeToolTip": "..\\BusinessObject\\tbl_Workshop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tbl_User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_User.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\tbl_User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_User.cs",
+              "RelativeToolTip": "..\\BusinessObject\\tbl_User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:37.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "tbl_Trainer_WorkShop_Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Trainer_WorkShop_Mapping.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\tbl_Trainer_WorkShop_Mapping.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Trainer_WorkShop_Mapping.cs",
+              "RelativeToolTip": "..\\BusinessObject\\tbl_Trainer_WorkShop_Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:35.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tbl_Student_WorkShop_Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Student_WorkShop_Mapping.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\tbl_Student_WorkShop_Mapping.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Student_WorkShop_Mapping.cs",
+              "RelativeToolTip": "..\\BusinessObject\\tbl_Student_WorkShop_Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "tbl_Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Role.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\tbl_Role.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Role.cs",
+              "RelativeToolTip": "..\\BusinessObject\\tbl_Role.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "tbl_Material.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Material.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObject\\tbl_Material.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\BusinessObject\\tbl_Material.cs",
+              "RelativeToolTip": "..\\BusinessObject\\tbl_Material.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:29.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkShopDb.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\DataAccess\\WorkShopDb.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\WorkShopDb.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\DataAccess\\WorkShopDb.cs",
+              "RelativeToolTip": "..\\DataAccess\\WorkShopDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:12.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDb.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\DataAccess\\UserDb.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\UserDb.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\DataAccess\\UserDb.cs",
+              "RelativeToolTip": "..\\DataAccess\\UserDb.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MaterialDB.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\DataAccess\\MaterialDB.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\MaterialDB.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\DataAccess\\MaterialDB.cs",
+              "RelativeToolTip": "..\\DataAccess\\MaterialDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:04.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DABase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\DataAccess\\DABase.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DABase.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\DataAccess\\DABase.cs",
+              "RelativeToolTip": "..\\DataAccess\\DABase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:44:01.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Approval.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Approval.aspx",
+              "RelativeDocumentMoniker": "Admin\\Approval.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Approval.aspx",
+              "RelativeToolTip": "Admin\\Approval.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:43:47.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Home.aspx",
+              "RelativeDocumentMoniker": "Admin\\Home.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Home.aspx",
+              "RelativeToolTip": "Admin\\Home.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:43:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Student.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Student.aspx",
+              "RelativeDocumentMoniker": "Admin\\Student.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Student.aspx",
+              "RelativeToolTip": "Admin\\Student.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:43:38.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Trainer.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Trainer.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\Trainer.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Trainer.aspx.cs",
+              "RelativeToolTip": "Admin\\Trainer.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:43:31.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Trainer.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Trainer.aspx",
+              "RelativeDocumentMoniker": "Admin\\Trainer.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Trainer.aspx",
+              "RelativeToolTip": "Admin\\Trainer.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:43:28.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminMasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\AdminMasterPage.Master",
+              "RelativeDocumentMoniker": "Admin\\AdminMasterPage.Master",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\AdminMasterPage.Master",
+              "RelativeToolTip": "Admin\\AdminMasterPage.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T12:34:57.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Student\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Home.aspx.cs",
+              "RelativeToolTip": "Student\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:42:50.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Material.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Material.aspx.cs",
+              "RelativeDocumentMoniker": "Student\\Material.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Material.aspx.cs",
+              "RelativeToolTip": "Student\\Material.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:42:34.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Material.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Material.aspx",
+              "RelativeDocumentMoniker": "Admin\\Material.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Material.aspx",
+              "RelativeToolTip": "Admin\\Material.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T12:54:04.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Material.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Material.aspx",
+              "RelativeDocumentMoniker": "Student\\Material.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Material.aspx",
+              "RelativeToolTip": "Student\\Material.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:42:24.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "Student\\Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Profile.aspx.cs",
+              "RelativeToolTip": "Student\\Profile.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:42:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Workshop.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Workshop.aspx",
+              "RelativeDocumentMoniker": "Admin\\Workshop.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Workshop.aspx",
+              "RelativeToolTip": "Admin\\Workshop.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T12:52:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Workshop.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Workshop.aspx.cs",
+              "RelativeDocumentMoniker": "Admin\\Workshop.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Admin\\Workshop.aspx.cs",
+              "RelativeToolTip": "Admin\\Workshop.aspx.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAA8wEUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:52:52.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Profile.aspx",
+              "RelativeDocumentMoniker": "Student\\Profile.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Profile.aspx",
+              "RelativeToolTip": "Student\\Profile.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:42:18.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Request.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Request.aspx",
+              "RelativeDocumentMoniker": "Student\\Request.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Request.aspx",
+              "RelativeToolTip": "Student\\Request.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:42:15.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Home.aspx",
+              "RelativeDocumentMoniker": "Student\\Home.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Home.aspx",
+              "RelativeToolTip": "Student\\Home.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T12:36:44.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Workshop.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Workshop.aspx",
+              "RelativeDocumentMoniker": "Student\\Workshop.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\Workshop.aspx",
+              "RelativeToolTip": "Student\\Workshop.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:42:07.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\About.aspx.cs",
+              "RelativeDocumentMoniker": "About.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\About.aspx.cs",
+              "RelativeToolTip": "About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:42:03.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:41:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:41:02.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T15:40:41.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\ViewSwitcher.ascx",
+              "RelativeToolTip": "ViewSwitcher.ascx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-03-29T15:40:32.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-29T15:40:20.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T12:38:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StudentMasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\StudentMasterPage.Master",
+              "RelativeDocumentMoniker": "Student\\StudentMasterPage.Master",
+              "ToolTip": "C:\\Users\\user\\Documents\\Project\\Project_WebForms\\Project\\UI\\Student\\StudentMasterPage.Master",
+              "RelativeToolTip": "Student\\StudentMasterPage.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-29T11:07:14.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
