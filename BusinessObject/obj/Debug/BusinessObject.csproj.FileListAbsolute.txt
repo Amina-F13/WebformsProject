@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Project\Project_WebForms\Project\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\user\Documents\Project\Project_WebForms\Project\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\user\Documents\Project\Project_WebForms\Project\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Project\Project_WebForms\Project\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project\Project_WebForms\Project\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\user\Documents\Project\Project_WebForms\Project\BusinessObject\obj\Debug\BusinessObject.pdb

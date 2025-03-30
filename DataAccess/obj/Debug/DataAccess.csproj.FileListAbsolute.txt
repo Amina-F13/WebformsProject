@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\bin\Debug\BusinessObject.dll
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\bin\Debug\BusinessObject.pdb
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\user\Documents\Project\Project_WebForms\Project\DataAccess\obj\Debug\DataAccess.pdb
